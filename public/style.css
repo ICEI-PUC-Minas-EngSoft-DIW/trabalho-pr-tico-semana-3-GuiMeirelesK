@@ -1,0 +1,134 @@
+.site{
+    background-color: #F5F5F5;
+}
+.cabecalho{
+    margin-bottom: -8px;
+    background-color: #859493;
+    display: flex;
+    padding: 15px;
+    gap: 20px;
+    justify-content: flex-start;
+    border-radius: 6px;
+    margin: 1px;
+}
+.foto_perfil{
+    height: 185px;
+    width: 160px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+.nome{
+    font-size: 40px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.info{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 8px;
+}
+.perfil{
+    background-color: #E5E7EB;
+    height: 97px;
+    width: 880px;
+    padding-top: 5px;
+    border-radius: 5px;
+    padding: 1px;
+}
+.perfil h2{
+    font-size: 35px;
+    margin-bottom: -15px;
+    font-family: 'Poppins', sans-serif;
+    color: #111827;
+
+}
+.perfil p{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: #374151;
+}
+.exp{
+    background-color: #E5E7EB;
+    height: 97px;
+    width: 880px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
+.exp h2{
+    font-size: 35px;
+    margin-bottom: -15px;
+    font-family: 'Poppins', sans-serif;
+    color: #111827;;
+}
+.exp p{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: #374151;
+}
+.obj{
+    background-color: #E5E7EB;
+    height: 180px;
+    width: 880px;
+    padding-top: 3px;
+    border-radius: 5px;
+}
+.obj h2{
+    font-size: 35px;
+    margin-bottom: -15px;
+    font-family: 'Poppins', sans-serif;
+    color: #111827;;
+}
+.obj p{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: #374151;
+}
+.layout_principal{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.coluna_esquerda{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    background-color: #E5E7EB;
+}
+.coluna_direita{
+    flex: 1;
+    width: 45%;
+    float: right;
+    padding-left: 10px;
+    margin-left: -13px;
+    text-align: left;
+    border-radius: 5px;
+    
+    background-color: #D1D5DB;
+}
+.coluna_direita h3{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.coluna_direita p{
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+}
+.perfildiv{
+    height: 180px;
+    width: 890px;
+    border-radius: 5px;
+}
+.experiencia{
+height: 180px;
+width: 890px;
+border-radius: 5px;
+margin-top: 3px;
+}
+.objetivo{
+height: 170px;
+width: 890px;
+border-radius: 5px;
+margin-top: 3px;
+}
